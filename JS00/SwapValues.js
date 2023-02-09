@@ -5,5 +5,4 @@ c = a;
 a = b;
 b = c;
 
-console.log('New value of a: ', a);
-console.log('New value of b: ', b);
+console.log('Exemple : \n','New value of a: ', a ,'\n New value of b: ', b);

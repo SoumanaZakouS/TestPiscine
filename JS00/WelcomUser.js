@@ -1,2 +1,2 @@
-let User = 'SoumanaZakouS' ;
+let User = 'John' ;
 console.log('Welcom ', User);
