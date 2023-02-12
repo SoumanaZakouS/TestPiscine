@@ -1,1 +1,1 @@
-console.log('Exemple : \n', 15 * 10 * 5);
+console.log(15 * 10 * 5);
