@@ -1,4 +1,4 @@
-let day = 'Mardi';
+let day = 'Lundi';
 
 if (day==='Samedi')
 console.log('weekend');
