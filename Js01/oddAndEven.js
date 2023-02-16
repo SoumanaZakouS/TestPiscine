@@ -1,8 +1,9 @@
 for (var e=1; e<20; e++)
 {
-  if (e%2!=0)
+  if (e%2!=0){
   console.log('Impaire');
-  
-  else
+  }
+  else{
   console.log('Paire');
+  }
 }
