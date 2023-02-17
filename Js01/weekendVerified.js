@@ -1,9 +1,6 @@
 let day;
 
-if (day=='Samedi'){
-console.log('weekend');
-}
-else if (day=='Dimanche'){
+if (day=='Samedi'|| day=='Dimanche'){
 console.log('weekend');
 }
 else{
