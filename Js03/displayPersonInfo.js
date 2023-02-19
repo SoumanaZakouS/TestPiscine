@@ -1,10 +1,12 @@
-soit  personne  =  {
-    nom : "Mariam" ,
-    Âge : 30 ,
-} ;
-
-function  displayPersonInfo ( personne ) {
-    consoler . log ( "nom: " ,  personne . nom ) ;
-    consoler . log ( "Age: " ,  personne . Age ) ;
+let personne = {
+    nom : 'Mariam',
+    âge : 30 
 }
-displayPersonInfo ( personne ) ;
+
+function info(person) {
+  
+    console.log('nom: ', personne.nom);
+    console.log('Age: ', personne.âge);
+}
+
+info(personne);
