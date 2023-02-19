@@ -1,5 +1,5 @@
 const codeloccol = {
- name: 'Happy Coder',
+ name: 'Coder',
  legs: 4,
  tails: 1,
  friends: [ 'Codeloccol Campers' ],
